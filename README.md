@@ -3,7 +3,7 @@
 - 🌱 Currently studying Angular CLI and Backend ecosystem technologies such as NodeJs, Java, APIs and others.
 - 💞️ I try to collaborate with work teams where I can learn and put my knowledge into practice
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
