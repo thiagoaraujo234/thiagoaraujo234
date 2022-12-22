@@ -3,10 +3,8 @@
 - 🌱 Currently studying Angular CLI and Backend ecosystem technologies such as NodeJs, Java, APIs and others.
 - 💞️ I try to collaborate with work teams where I can learn and put my knowledge into practice
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaraujo234&layout=compact&theme=radical)](https://github.com/thiagoaraujo234/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaraujo234&layout=compact&theme=gradient)](https://github.com/thiagoaraujo234/github-readme-stats)
 
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
